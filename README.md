@@ -5,14 +5,14 @@ AluraFlix es una plataforma diseñada para ser el Netflix de Alura, una platafor
 
 En esta primera Sprint, el enfoque está en la construcción de los componentes esenciales que ayudarán a estructurar la aplicación. Los componentes que se deben crear incluyen:
 
-Botón
-Header (Encabezado)
-Banner
-Footer (Pie de página)
-Componente Default
-Slider (Deslizador)
-Carrusel
-Campo de Texto
+- Botón
+- Header (Encabezado)
+- Banner
+- Footer (Pie de página)
+- Componente Default
+- Slider (Deslizador)
+- Carrusel
+- Campo de Texto
 
 ## Capturas
 ![CapturaDesk](./src/assets/img/cap1.png) ![Capturamovil](./src/assets/img/cap2.png)

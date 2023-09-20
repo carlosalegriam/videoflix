@@ -22,8 +22,8 @@ Campo de Texto
 El proyecto AluraFlix fue desarrollado utilizando las siguientes tecnologías:
 
 - [React](https://reactjs.org/): Una biblioteca de JavaScript para construir interfaces de usuario.
-- [styled-components]: Recomendamos usar la biblioteca de Styled Components que se puede instalar fácilmente en tu proyecto.
-- [MUI]: También puedes usar Material UI en algunas partes de tu proyecto, si lo consideras necesario.
+- [Styled Components](https://styled-components.com/): Recomendamos usar la biblioteca de Styled Components que se puede instalar fácilmente en tu proyecto.
+- [Material UI](https://mui.com/): También puedes usar Material UI en algunas partes de tu proyecto, si lo consideras necesario.
 
 
 

@@ -1,6 +1,6 @@
-##AluraFlix - Aplicación de Video
+# AluraFlix - Aplicación de Video
 
-##Descripción
+## Descripción
 AluraFlix es una plataforma diseñada para ser el Netflix de Alura, una plataforma de aprendizaje en línea enfocada en programación y tecnología. La principal función de AluraFlix es proporcionar a los usuarios recomendaciones de videos relacionados con sus intereses educativos, así como permitirles agregar nuevas categorías y videos a la plataforma.
 
 En esta primera Sprint, el enfoque está en la construcción de los componentes esenciales que ayudarán a estructurar la aplicación. Los componentes que se deben crear incluyen:
@@ -14,8 +14,7 @@ Slider (Deslizador)
 Carrusel
 Campo de Texto
 
-##Capturas
-
+## Capturas
 ![CapturaDesk](https://github.com/carlosalegriam/videoflix/src/assets/img/cap1.png)
 
 ![Capturamovil](https://github.com/carlosalegriam/videoflix/src/assets/img/cap2.png)

@@ -15,8 +15,7 @@ Carrusel
 Campo de Texto
 
 ## Capturas
-![CapturaDesk](./videoflix/src/assets/img
-/cap1.png)
+![CapturaDesk](./src/assets/img/cap1.png)
 
 ![Capturamovil](https://github.com/carlosalegriam/videoflix/src/assets/img/cap2.png)
 

@@ -15,16 +15,15 @@ Carrusel
 Campo de Texto
 
 ## Capturas
-![CapturaDesk](./src/assets/img/cap1.png)
-
-![Capturamovil](./src/assets/img/cap2.png)
+![CapturaDesk](./src/assets/img/cap1.png) ![Capturamovil](./src/assets/img/cap2.png)
 
 ## Tecnologías Utilizadas
 
 El proyecto AluraFlix fue desarrollado utilizando las siguientes tecnologías:
 
 - [React](https://reactjs.org/): Una biblioteca de JavaScript para construir interfaces de usuario.
-- [Otros Ejemplos]: Si utilizaste otras tecnologías, también puedes enumerarlas aquí.
+- [styled-components]: Recomendamos usar la biblioteca de Styled Components que se puede instalar fácilmente en tu proyecto.
+- [MUI]: También puedes usar Material UI en algunas partes de tu proyecto, si lo consideras necesario.
 
 
 

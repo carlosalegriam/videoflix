@@ -17,7 +17,7 @@ Campo de Texto
 ## Capturas
 ![CapturaDesk](./src/assets/img/cap1.png)
 
-![Capturamovil](https://github.com/carlosalegriam/videoflix/src/assets/img/cap2.png)
+![Capturamovil](./src/assets/img/cap2.png)
 
 ## Tecnologías Utilizadas
 

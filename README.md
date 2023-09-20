@@ -1,4 +1,4 @@
-#AluraFlix - Aplicación de Video
+##AluraFlix - Aplicación de Video
 
 ##Descripción
 AluraFlix es una plataforma diseñada para ser el Netflix de Alura, una plataforma de aprendizaje en línea enfocada en programación y tecnología. La principal función de AluraFlix es proporcionar a los usuarios recomendaciones de videos relacionados con sus intereses educativos, así como permitirles agregar nuevas categorías y videos a la plataforma.
